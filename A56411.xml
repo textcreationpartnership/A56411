@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fire's continued at Oxford, or, The decree of the convocation for burning the Naked gospel, considered in a letter to a person of honour</title>
+            <author>Parkinson, James, 1653-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56411</idno>
+            <idno type="STC">Wing P494</idno>
+            <idno type="STC">ESTC R1197</idno>
+            <idno type="EEBO-CITATION">11875697</idno>
+            <idno type="OCLC">ocm 11875697</idno>
+            <idno type="VID">50224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50224)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 504:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fire's continued at Oxford, or, The decree of the convocation for burning the Naked gospel, considered in a letter to a person of honour</title>
+                  <author>Parkinson, James, 1653-1722.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated, p. 14: Aug. 30, 1690.</note>
+                  <note>"The naked gospel" was written by Arthur Bury.</note>
+                  <note>Advertisement on p. 15.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bury, Arthur, 1624-1713. --  Naked Gospel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50224:1"/>
+            <pb n="1" facs="tcp:50224:1" rendition="simple:additions"/>
+            <head>
+               <hi>The FIRE's continued at</hi> OXFORD: OR, The Decree of the Convocation for burning
+<hi>the Naked Goſpel,</hi> conſidered.</head>
+            <head type="sub">In a Letter to a Perſon of Honour.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Gave you in my laſt the ſtate of the Controverſy between the Bp. of <hi>Exeter,</hi> and
+the Rector and major part of the Fellows of <hi>Exeter</hi>-Colledg at <hi>Oxford,</hi> as well as
+I could collect it from the Relations I could meet with, and from their Petition to her Majeſty,
+before whom the Cauſe is depending. In the mean time, the <hi>Gazette</hi> will inform you, The
+Univerſity of <hi>Oxford,</hi> in Convocation held, <hi>Aug.</hi> 19. inſtant, has paſt their
+Judgment and Decree againſt cer<g ref="char:EOLhyphen"/>tain Propoſitions as Impious and Heretical, cited out of a
+certain infamous Libel— entituled, <hi>The Naked Goſpel,</hi> which (ſay they) impugn and
+deſtroy the chief Myſte<g ref="char:EOLhyphen"/>ries of our Faith, always held and main<g ref="char:EOLhyphen"/>tained in the Catholick Church,
+and eſpeci<g ref="char:EOLhyphen"/>ally in the Engliſh. And in the Preface to their Decree, they ſay, it not only
+denies, but expoſes to ſcorn that very Lord Jeſus Chriſt, who is God bleſſed for
+ever.</p>
+            <p>Now, Sir, before I take into conſidera<g ref="char:EOLhyphen"/>tion the impious and heretical Propoſitions, give me
+leave to give you a ſhort Summary of the Tendency and Deſign of the Book, and of the reputed
+Author's printing it at his own Charge, as I am inform'd by ſome that know him, for I do not know
+him my ſelf, nor ever had any communication with him.</p>
+            <p>And firſt of the Author's Deſign in wri<g ref="char:EOLhyphen"/>ting it. When the King had called a Con<g ref="char:EOLhyphen"/>vocation to
+reconcile (as was hoped) to the Church of <hi>England,</hi> the ſeveral Parties in this Kingdom,
+and to ſatisfy (if poſſible) the Conſciences of thoſe who differ from it, this Author was
+willing to contribute to ſo good a Work. But becauſe a direct Ad<g ref="char:EOLhyphen"/>dreſs might appear too great
+a boldneſs (as ſome that went that way afterward found) he conceiv'd that a clear ſtating the
+firſt Principles of the Goſpel, would appear more ſuitable to ſo learned a Body, and
+uſe<g ref="char:EOLhyphen"/>ful toward enlargement of the Mind to a comprehenſive Charity. He therefore got this
+Treatiſe printed, with deſign to ſteal a Copy of it into the Hand of every Member of the
+Convocation, without publiſhing it to the World. No ſooner was the Impreſſion finiſhed,
+but he found the Hopes of the King, and the Generality of good Men diſappoin<g ref="char:EOLhyphen"/>ted,
+<pb n="2" facs="tcp:50224:2"/>by the rigour of the prevailing Party in the Convocation; and a great Noiſe
+made about this well-deſign'd Book, whereof ſome ſew Copies had gotten abroad. The Author
+hereupon made ſome Changes in the mid<g ref="char:EOLhyphen"/>dle of the Book, leaving out ſuch Paſſages as
+appeared moſt offenſive; and of this Im<g ref="char:EOLhyphen"/>preſſion he communicated more Copies than he had
+done of the former. But now cometh out a ſtolen Impreſſion of the firſt Book, made at
+<hi>London,</hi> by he knows not whom, which put it out of his power to diſpoſe as he pleas'd,
+of a Book that was his own.</p>
+            <p n="1">1. By Writing, and then by Printing and Altering, wholly at his own Coſt. Thus it
+appears his Deſign was not to diſturb the Peace of the Church, but to promote it.</p>
+            <p n="2">2. The Deſign and Tendency of the Book, I will preſume to whiſper to you, (out of
+hearing of the Convocation) is ſuch, as partly by reconciling Controverſies, partly by
+diſtinguiſhing neceſtary Articles from thoſe that are not neceſſary, and cut<g ref="char:EOLhyphen"/>ting off
+Diſputes about the Modes and Nice<g ref="char:EOLhyphen"/>ties of things in groſs neceſſary; by giving ſuch a
+Scheme of Chriſtian Religion as is clear and plain to vulgar Capacities, and apt to remove
+Doubts, and Fears, and Un<g ref="char:EOLhyphen"/>certainties, and to ſatisfy good Peoples Minds touching their being in
+the true way of Salvation, notwithſtanding the many Diſ<g ref="char:EOLhyphen"/>ferences and Diſputes among
+conſcientious Men, which they are either not able to de<g ref="char:EOLhyphen"/>termine, or not with full ſatisfattion
+to them<g ref="char:EOLhyphen"/>ſelves; to turn Mens Minds from the ſtudy of Opinions, and Speculations, to Practical
+Piety, Devotion toward God and Chriſt, and Love toward all Chriſtians of all Per<g ref="char:EOLhyphen"/>ſwaſions;
+in the mean time making Rents and Diviſions, Heats and Animoſities about Matters hardly
+determinable, to be dange<g ref="char:EOLhyphen"/>rous and unbecoming ſincere Chriſtians. This Book, I ſay, having
+this Deſign and Tendency, were not People prejudiced a<g ref="char:EOLhyphen"/>gainſt it by raſh and preſumptuous
+Decrees and Cenſures, might be of as great benefit to the. World in general, and the Chriſtian
+World in ſpecial, as perhaps any Book of that Subject that has been publiſh'd theſe hundred
+Years. When you have read the Book, I doubt not but you will be of my Mind. But for all that, I
+could have wiſh<g ref="char:EOLhyphen"/>ed the Author had not, by ſome elegant Figures of Speech, either bordered upon
+Hyperbole's, or made his Mind leſs intelli<g ref="char:EOLhyphen"/>gible to common Readers, and laid himſelf more open
+to the Cavils of his fierce Ene<g ref="char:EOLhyphen"/>mies, (which he did not fear among ſo learned Men as our
+Convocation.)</p>
+            <p>For, except the manner of expreſſion, I make no queſtion but your own Memory will
+ſuggeſt to you, that (as we ſay of the Holy Scriptures, they contain in one Bun<g ref="char:EOLhyphen"/>dle all
+thoſe excellent Precepts and Inſtru<g ref="char:EOLhyphen"/>ctions, which lie diſpers'd, ſome in one, ſome in
+another of the Philoſophers) ſo die <hi>Naked Goſpel</hi> contains nothing but what is found
+by Parcels, in other eminent and allowed Authors, whom the <hi>Oxford</hi>-Convo<g ref="char:EOLhyphen"/>cation dare not
+paſs Sentence upon, tho' they have appear'd of late Years preſump<g ref="char:EOLhyphen"/>tuous enough in that kind;
+witneſs their fa<g ref="char:EOLhyphen"/>mous Judgment and Decree paſt in Convo<g ref="char:EOLhyphen"/>cation, <hi>July</hi> 21. 1683.
+declaring 27 Pro<g ref="char:EOLhyphen"/>poſitions <hi>to be Falſe, Seditious, and Impious; and moſt of them to be
+alſo Heretical and Blaſ<g ref="char:EOLhyphen"/>phemous, infamous to Chriſtian Religion, and de<g ref="char:EOLhyphen"/>ſtruction to all
+Government in Church and State.</hi> And this at ſuch a time, when the Court ſollicited that
+Judgment for promoting their horrid Deſign of introducing Popery and Arbitrary Government into
+theſe King<g ref="char:EOLhyphen"/>doms, and rooting that peſtilent Hereſy of Proteſtantiſm out of all Nations;
+to which that <hi>Oxford</hi>-Decree was greatly ſerviceable. And had the Body of the People of
+<hi>England</hi> been throughly perſwaded of the Truth, Equity, and Religion of that Decree in
+all the Propoſitions, we could never have had the happy cauſe of bleſſing God for
+deliver<g ref="char:EOLhyphen"/>ing us from French Tyranny, and Popiſh Cruelty and Superſtition, by the glorious
+Courage and Conduct of his Highneſs the Prince of <hi>Orange;</hi> nor could the Peers, and
+Re<g ref="char:EOLhyphen"/>preſentatives of the Nation in Convention,
+<pb n="3" facs="tcp:50224:2" rendition="simple:additions"/>have ſett'd the Crown upon their moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſties,
+<hi>William</hi> and <hi>Mary;</hi> but we had in all likelyhood been for ever enſlaved to a
+bigotted Popiſh King, and the Lady of <hi>Loretto</hi>'s Heirs. For it is obſervable, that the
+Vote of the Convention, which decla<g ref="char:EOLhyphen"/>red K. <hi>James</hi>'s Throne vacant, was grounded upon his
+having broken the Contract between King and People. And that there is ſuch a Contract, is the
+Propoſition condemned as im<g ref="char:EOLhyphen"/>pious by the ſame Hand which now condem<g ref="char:EOLhyphen"/>ned the <hi>N. G.</hi> At
+this time we ſee that thoſe Biſhops, and others, that have through<g ref="char:EOLhyphen"/>ly digeſted the
+<hi>Oxford</hi>-Principles of Paſſive Obedience, and Non-reſiſtanne, can rather loſe
+their Preferments, than ſwear Allegiance to our King and Queen. And ſince divers of the Clergy
+profeſs to ſwear to their Ma<g ref="char:EOLhyphen"/>jeſties as King and Queen <hi>de Facto</hi> only; Have we not
+reaſonable grounds to ſuſpect the Paſſive-Obedience-men of the Convoca<g ref="char:EOLhyphen"/>tion to be ſuch?
+And perhaps our Author may have ſomewhat more incurr'd their Enmity by his being (as I hear he
+is) a <hi>de Jure</hi> Liege-man, and did not join his Suffe<g ref="char:EOLhyphen"/>rage in that Decree.</p>
+            <p>This burning Decree of the Convocation of <hi>Oxford, July</hi> 21. — 83. brings freſh
+to my Mind the moſt unjuſt Expulſion of Mr. <hi>Parkinſon</hi> from that Univerſity, and
+conſe<g ref="char:EOLhyphen"/>quently from his Fellowſhip in <hi>Lincoln</hi>-Col<g ref="char:EOLhyphen"/>ledg, whereby, and from his Pupils,
+he re<g ref="char:EOLhyphen"/>ceiv'd about 120 <hi>
+                  <abbr>l.</abbr> per Annum;</hi> of all which he was depriv'd, without
+any Trial, about the very time of that Convocation, and for holding (as was pretended) ſome of
+thoſe Propoſitions condemned by that Decree; and whilſt he ſtood indicted for the ſame at
+the Aſſizes of <hi>Oxford,</hi> where, and at the King's-Bench <hi>Weſtminſter,</hi> he was
+forced to give attendance for about three Years. And tho' he has been reſtor'd to the Liberty of
+the Univerſity, by the late Vice-Chancellor, now Biſhop of <hi>Briſtol;</hi> yet to this Day
+he cannot procure reſtoration to his Fellow<g ref="char:EOLhyphen"/>ſhip, much leſs reparation of his great Damages
+ſuſtain'd in the ſpace of full ſeven Years. How does Dr. <hi>H</hi>—'s Conſcience
+ſuf<g ref="char:EOLhyphen"/>fer him to ſleep while it is not done, ſince he was the chief Agent in that
+Expulſion!</p>
+            <p>Let me enquire now how theſe Gentle<g ref="char:EOLhyphen"/>men-burners make good their Sentence, That <hi>the Naked
+Goſpel plucks up by the Roots the Primitive Doctrine once delivered to the Saints; deſtroys the
+chief Myſteries of our Religion; and not only denies, but expoſes to ſcorn that very Jeſus
+Chriſt our Lord, who bought us, and who is God bleſſed for ever.</hi> A heavy Charge indeed,
+and which is to be abomina<g ref="char:EOLhyphen"/>ted by all Chriſtians. But what ſhall we ſay of theſe Judges if
+they fail in their Proofs? muſt they not fall under the Character of falſe Accuſers, and
+unjuſt Judges?</p>
+            <p>The Matters contain'd in the Book, from firſt to laſt, ſhew plainly, that the Author is
+neither <hi>Arian</hi> nor <hi>Socinian;</hi> for he is ſo far from denying even the Eternal
+Divinity of our Lord Jeſus Chriſt, that he plainly enough confeſſes it; but if he both
+confeſſes it and denies it, he contradicts himſelf, and can<g ref="char:EOLhyphen"/>not be ſaid abſolutely either
+to confeſs or deny it. But that he confeſſes it, and de<g ref="char:EOLhyphen"/>nies only the neceſſity of
+underſtanding and believing the manner of it, appears in di<g ref="char:EOLhyphen"/>vers Paſſages, (which is one main
+diſtinction which the Learned Judges ought to have conſidered.) As,</p>
+            <p n="1">1. <hi>Chap.</hi> 5. <hi>pag.</hi> 24. <hi>Iſt</hi> Edit. <hi>The ſame in<g ref="char:EOLhyphen"/>finite,
+abſolute, implicit Belief, which is ac<g ref="char:EOLhyphen"/>knowledged due to God, is alſo due to Chriſt:</hi>
+Which could not be ſaid by one that did not believe him an Infinite God.</p>
+            <p>Again, 2. <hi>Chap.</hi> 6. <hi>pag.</hi> 36. <hi>Other Chara<g ref="char:EOLhyphen"/>cters ſpeak an unmeaſurable
+Excellency: but this [the only begotten Son of God] ſpeaks an incom<g ref="char:EOLhyphen"/>municable One.</hi> And a few
+Lines after he ad<g ref="char:EOLhyphen"/>deth, That <hi>the Divinity of our Lord maketh the Dignity of his Perſon
+unintelligible, and for that very reaſon he is to be believed in with utmoſt confidence.</hi>
+P. 37.</p>
+            <p>Then conſider, 3. what he affirmeth <hi>Pag.</hi> 39. that our Saviour in anſwering the
+Jews, who were offended at him for having ſtiled himſelf the Son of God, <hi>did not upon ſo
+preſ<g ref="char:EOLhyphen"/>ſing occaſion aſſert his right, but abating ſo much as exceeded their
+comprehenſion</hi> — <hi>ſpeaks no<g ref="char:EOLhyphen"/>thing
+<pb n="4" facs="tcp:50224:3"/>of what he had been from Eternity in him<g ref="char:EOLhyphen"/>ſelf, but what he was in relation to
+the World, and in compariſon with other Meſſengers of God to it.</hi> — <hi>Thus did
+he</hi> (<hi>like</hi> Elijah) <hi>contract himſelf to their Dimenſions, requiring only ſuch
+a meaſure of Faith, as was ſuitable to their <g ref="char:V">Ʋ</g>nderſtandings and his own Deſigns.</hi>
+Here the Author, ſaying that our Lord did not aſſert his Right, muſt mean his Right to that
+Title, which the Jews accus'd him of Blaſphe<g ref="char:EOLhyphen"/>my for uſurping, (which was, that he being a Man,
+made himſelf God) clearly ſuppoſes him to be God. And again, in ſaying, he ſpake nothing
+<hi>of what he was from Eternity in him<g ref="char:EOLhyphen"/>ſelf:</hi> He ſuppoſeth it was a Truth beyond
+controverſy, that he was from Eternity; and that ſo much the more plainly, becauſe it comes
+as part of a Diſcourſe, which ſhews that our Lord did not aſſert his Right.</p>
+            <p n="4">4. What the Burners produce as Hereti<g ref="char:EOLhyphen"/>cal in evidence of their Charge, <hi>viz.</hi> That
+<hi>his Generation muſt needs be-ſo much above our <g ref="char:V">Ʋ</g>nderſtanding, as the Nature of God is
+above our own;</hi> may much more juſtly be produ<g ref="char:EOLhyphen"/>ced in defence of the Author, as a proof that
+he believed, our. Lord's Divinity, than be objected as ſubverting the Faith of it.</p>
+            <p>Since therefore he acknowledged our. Lord's Divinity for a Truth, as we ſee; the
+Propoſitions the Burners cite as denying it, muſt be as clear as theſe; or elſe the Au<g ref="char:EOLhyphen"/>thor
+does not contradict himſelf, but muſt be reckon'd Orthodox in the Faith. For ob<g ref="char:EOLhyphen"/>ſcure
+Paſſages ought in reaſon to be expli<g ref="char:EOLhyphen"/>cated by thoſe that are clear; And then the Burners
+fall ſhort in proving their heinous Charge; and all the Fault of the Author muſt lie in his
+denying it to be a matter of neceſſary ſaving-Faith. But the great Cham<g ref="char:EOLhyphen"/>pions of the
+Catholick Doctrine were ge<g ref="char:EOLhyphen"/>nerally guilty of the ſame Hereſy. St. <hi>Hi<g ref="char:EOLhyphen"/>lary</hi> wrote no
+leſs than twelve Books con<g ref="char:EOLhyphen"/>cerning the Trinity, yet in the cloſe of the 10th hath theſe
+words, <hi>Non per difficiles nos Deus ad beatam vitam queſtiones vocat,</hi> &amp;c. <hi>God
+doth not call us to a bleſſed. Life by difficult. Queſtions, nor ſolicites us by a manifold
+kind of Eloquence;</hi> the way of <hi>Eternity is plain and eaſy to us;</hi> viz. <hi>To believe
+that God-raiſed Jeſus from the Dead, and to confeſs him our Lord.</hi> In which words we
+ſee, not only in the preſent Queſtion concerning our Lord's. Perſon, but in all others, how
+little of mere Belief is required to Salvation. Nor do we find the leaſt Hint to the contrary in
+the Hiſtory of thoſe Times, wherein the Con<g ref="char:EOLhyphen"/>troverſy raged; tho' they Perſecuted one
+another, they did not Damn one another; they contended for their Opinions, as for great Truths,
+wherein our Lord's Honour was concern'd, not as for Articles of Faith, whereon the Believer's
+Salvation depended. Sr. <hi>Chryſoſtom</hi> ſays, <hi>All Neceſſaries are clear and
+manifeſt.</hi> And <hi>Nazianzen,</hi> after thirteen Years ſtudy, calls them <hi>Fools</hi>
+who too curiouſly enquire into the Incarnation of our Lord.</p>
+            <p>Yea, and thoſe who were ſo eager for condemning the <hi>Naked Goſpel</hi> to the Flames,
+cannot ſure but think it more diſhonourable to the Saviour of the World, to believe he will
+damn any Man for failing of ſo difficult a Truth, when he ſincerely believes the clear.
+Goſpel, than any other Error concerning the Divinity of his Perſon can be.</p>
+            <p>A ſecond Diſtinction which the Author might juſlly have expected from ſuch Lear<g ref="char:EOLhyphen"/>ned
+Perſons, was, That the Queſtion in de<g ref="char:EOLhyphen"/>bate was not concerning the Divinity, or mere Humanity of
+our Lord's Perſon, but concerning a Nicety ſo inconſiderable, that neither the Emperor nor a
+Council could find the difference between the <hi>Nicene</hi> and <hi>Arian</hi> Confeſſion.
+And doubtleſs it muſt be ſomething worſe than Inadvertency that can blind any Man ſo far,
+as to diſable him from diſcovering, that from the beginning of the 7th Chapter to the 10th,
+this Author ſpeaketh only as a Commentator upon the. Letter of the great Emperor
+<hi>Conſtantine,</hi> wherein he equally condemneth both Par<g ref="char:EOLhyphen"/>ties for troubling the Peace of his
+Empire with ſuch a Queſtion, wherein it was not diſputed whether Chriſt were God or not,
+(for therein both ſides agreed) but in what manner, he was begotten, or wherein he a<g ref="char:EOLhyphen"/>greed or
+differ'd from the Father.</p>
+            <pb n="5" facs="tcp:50224:3"/>
+            <p>There is a Paſſage which I find in the laſt Impreſſion, (which perhaps is not in many
+Hands, and little notice taken of it) in which the Author, by cloſing that Diſ<g ref="char:EOLhyphen"/>courſe,
+diſplayeth his meaning in it, which though it be ſomewhat long, I think fit to
+tranſcribe.</p>
+            <p>
+               <hi>Pag,</hi> 48, 49. [AND what is all this to BELIEVING IN CHRIST? Yea, what is it to the
+PERSON of Chriſt? Had freedom from Perſecution, ſuffered a Controverſy to have ſprung
+three or four Ages before, be<g ref="char:EOLhyphen"/>tween ſome that then <hi>believed Chriſt to be God, and others
+that believed Jeſus to be the Chriſt, but a Man born of Men,</hi> (as we heard from
+<hi>Juſtin Martyr</hi>); the importance of ſuch a Controverſy would have juſtified the Heat
+wherewith it ſhould be perſecuted. But here it was quite otherwiſe: The Dif<g ref="char:EOLhyphen"/>ference at
+firſt appeared very ſlight, and af<g ref="char:EOLhyphen"/>terward none at all: For the Confeſſion of
+<hi>Arius</hi> after his condemnation was ſo like the <hi>Nicene,</hi> that neither the Emperor
+himſelf, nor a Council, found any defect in it. The angry Biſhop indeed found a word wanting,
+but ſuch a word as proved too unweildy, even for thoſe who would not diſpence with it. This
+word <hi>Arius</hi> omitted as no leſs need<g ref="char:EOLhyphen"/>leſs than intractable: But he and his followers
+acknowledged Chriſt to be <hi>the only begotten Son of God, begotten before all Worlds, God of
+God, Light of Light, very God of very God:</hi> Was not this ſo believe in him? Is it not e<g ref="char:EOLhyphen"/>nough
+to believe, that as he created the World, ſo he governeth it? that as he pro<g ref="char:EOLhyphen"/>miſed
+everlaſting Life to his Believers, ſo he is able to perform it? that he now ſeeth, and will
+hereafter reward every one ac<g ref="char:EOLhyphen"/>cording to his Works? Doth not this an<g ref="char:EOLhyphen"/>ſwer all the Deſigns of
+Faith, Love, Thank<g ref="char:EOLhyphen"/>fulneſs, Obedience, <hi>&amp;c.</hi> Can none be Be<g ref="char:EOLhyphen"/>lievers but
+Metaphyſicians only? Nor all they neither, but only ſuch as fully com<g ref="char:EOLhyphen"/>prehend the new-coin'd
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and can ſo nicely apply them to the Perſon of
+Chriſt, as to ſalve all Difficulties? The Parties themſelves did not think ſo. The leading
+Biſhops, in the midſt of their. Heats allowed Toleration to the Diſſenters, and all of both
+ſides during the Perſecution under <hi>Julian,</hi> communicated in die ſame Churches, and in
+all good Offices, both of Devotion toward God, and Charity toward each other; they mutually
+comforted and ſtrengthned one another in defence of the Chriſtian Faith: By this it appeareth,
+they did not judg one another to be Infidels, and conſequently, that the Faith to which Eter<g ref="char:EOLhyphen"/>nal
+Life is promiſed, was not concern'd in the Controverſy.</p>
+            <p>An Evidence concurring with greater, to prove that the Creed which weareth the Name of
+<hi>Athanaſius,</hi> was not his Iſſue nor Contemporary. And where is that
+Church-of-<hi>England</hi>-Man, who doth not ſo diſtinguiſh the Doctrines of that Creed from
+its Cen<g ref="char:EOLhyphen"/>ſures, as to retain the former in their full import, but pull out the String of the
+latter, by ſuch an Interpretation as leaves uncan<g ref="char:EOLhyphen"/>cell'd our Saviour's Patent of Eternal Life to
+whoſoever believeth in him?]</p>
+            <p>Theſe are the words of the Author, wherein he ſummeth up the Deſign of all he had ſaid
+concerning Faith toward the Perſon of Chriſt, and whereby are rendred inexcuſa<g ref="char:EOLhyphen"/>ble any that
+charge him with <hi>Arianiſm, Soci<g ref="char:EOLhyphen"/>nianiſm,</hi> or any other hard Character.</p>
+            <p>No! his Hereſy lay not in the Book, but the Concluſion. The Concluſion was ſo un<g ref="char:EOLhyphen"/>lucky,
+as not only to contradict the Pur<g ref="char:EOLhyphen"/>poses, but the very Speech of thoſe Leaders of that
+Convocation. In the days of <hi>Hen.</hi> 3. the Biſhops moved the Temporal Lords to ſuit the
+Law of <hi>England</hi> to the Canon Law, by legitimating Children born before Wedlock: The
+Temporal Lords anſwered, <hi>Nolumus L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges
+Augliae mutari, quia huc uſque uſu approbatae ſunt.</hi> The former half of theſe words,
+the Noble Biſhop of <hi>London</hi> took for the Motto of his Standard, wherein there was neither
+need nor place for the later half; and it is well known, who with equal Wit, Wiſdom, and
+Gratitude; threw it in his Face in that Convocation. Could any thing
+<pb n="6" facs="tcp:50224:4"/>more provoke ſuch a Man's ſpleen, than a Diſcourſe ſo croſs, both to
+the Determination and the Reaſon, as for this very Reaſon to prove a Change ought to be made,
+becauſe Experience had proved thoſe Laws unhappy in ſucceeding Ages, which were wiſely and
+charitably inſtituted, for that Age wherein they were firſt eſtabliſhed? This was an
+Affront never to be digeſted, but for its ſake the whole Book muſt be condemned, and the
+Author proſecuted.</p>
+            <p>From this general Apology for the Author's Innocency, I will now proceed to take a ſhort view
+of the particular Propoſitions, whereby the Burners prove the equity of their Sen<g ref="char:EOLhyphen"/>tence and
+Execution.</p>
+            <p>
+               <q rend="margQuotes">'That <hi>Mahomet</hi> profeſs'd all the Articles of the Chriſtian
+Faith.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By the firſt ſtep we may ſee whither they are going. They quote the Words
+of the Author, as the Devil did Scripture, by halves: Had they gone on, as a Faithful Witneſs
+ſhould do, it muſt plainly appear that the Author meant not to equal <hi>Maho<g ref="char:EOLhyphen"/>met's</hi> Belief
+with the Chriſtians, but to ſhew the Deſign and Succeſs of his Pretences: For thus he
+proceeds,
+<q rend="margQuotes">'<hi>Mahomet</hi> profeſt all the Articles of the Chriſtian Faith,
+and declared himſelf, not an Apoſtate, but Reformer: pretending to purify it from the
+Corruption wherewith it had be'n defiled, and perfect it with Additionals; he framed ſuch a
+Jargon, as appeared moſt ſerviceable to his Ends, and moſt ſuitable to his Luſt.</q> And
+ſure their Ma<g ref="char:EOLhyphen"/>lice muſt have be'n too hard for their Me<g ref="char:EOLhyphen"/>mory if they had forgotten what had
+be'n ſaid,
+<q rend="margQuotes">'That the Author of the <hi>Alcoran</hi> was no other than a leud
+brain-ſick Scoundrel, and his Doctrines (as far as they are his) no better than extravagant
+Whimſies, or leud Panders to Luſt. And again, that the <hi>Aſian</hi> Churches had their
+Candleſtick removed by the Sword of a baſe Slave and his few Followers, and by Doctrines weak
+as That Sword when firſt unſheathed, and leud as thoſe Rogues that managed it.</q> But alas!
+this would have ſpoil'd the firſt moſt Heretical and Impious Propoſition, and the Author
+muſt have ſcap't without that ſevere Character of being a Friend to <hi>Mahomet,</hi> and a
+Fa<g ref="char:EOLhyphen"/>vourer of the <hi>Alcoran,</hi> which any one will think him to be with a Witneſs, who ſhall
+read this ſo <hi>juſt</hi> Decree, and never view the. Book it ſelf: Do you not bluſh, Sir,
+at the Ingenuity of that Perſon who drew out this abominable Propoſition? And are you not
+almoſt afraid, that the Learned Condemners took it upon truſt, without too laborious an
+Examination?</p>
+            <p>And ſo much for this ſtrong, firm and laudable Foundation. Let us proceed to the reſt of
+the Blaſphemies.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Pref.</hi> Whether <hi>Mahomet</hi> or Chriſtian Doctors have more
+corrupted the Goſpel, is not<g ref="char:punc">▪</g> ſo plain by the Light of Scripture, as it is by that of
+Experience, that the later gave Occaſion, Encouragement and Advantage to the former. For when by
+nice and hot Diſputes (eſpecially con<g ref="char:EOLhyphen"/>cerning the Second and Third Perſons of the Trinity)
+the Minds of the whole Peo<g ref="char:EOLhyphen"/>ple had bin long confounded, and by the then late Eſtabliſhment of
+Image-Wor<g ref="char:EOLhyphen"/>ſhip, the Scandal was encreaſed, ſo that to vulgar underſtandings the Doctrine of
+the Trinity appeared no leſs guilty of Poly<g ref="char:EOLhyphen"/>theiſm, than that of Image-Worſhip did of
+Idolatry—Then was there a temp<g ref="char:EOLhyphen"/>ting opportunity offered to the Impoſtor, and he laid hold
+on it, to ſet up himſelf for a Reformer of ſuch Corruptions, as were both too groſs to be
+Juſtified, and too viſible to be Denied.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Chriſtian Doctors had not in<g ref="char:EOLhyphen"/>deed, in <hi>Mahomet</hi>'s Time, ſo far
+corrupted the Goſpel as they have done ſince: But their then late eſtabliſhment of
+Image-Wor<g ref="char:EOLhyphen"/>ſhip, gave ſuch ſcandal to the vulgar rude <hi>Arabians,</hi> that the Idolatry
+which was viſi<g ref="char:EOLhyphen"/>ble therein, made them infer, that thoſe who were ſo guilty thereof, were no
+leſs
+<pb n="7" facs="tcp:50224:4"/>guilty of Polytheiſm in the Doctrine of the Trinity, which to this Day they
+ſtill believe. But where doth the denial of Chriſt's God-head appear in all this?</p>
+            <p>
+               <q rend="margQuotes">'<hi>Cap.</hi> 7. <hi>pag.</hi> 40. The great Queſtion concerning the
+God-Head of Chriſt is, 1. Impertinent to our Lord's Deſign. 2. Fruitleſs to the Contemplators
+own pur<g ref="char:EOLhyphen"/>poſe. 3. Dangerous.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The great Queſtion was not con<g ref="char:EOLhyphen"/>cerning the <hi>Godhead of Chriſt,</hi> (for
+therein both Parties agreed) but concerning the <hi>Eternity of his Godhead.</hi> They both held he
+was before the World, and made the World. Judges in Criminal Matters ſhould not cor<g ref="char:EOLhyphen"/>rupt the
+Evidence. And whatever the Au<g ref="char:EOLhyphen"/>thor ſpeaketh of that Queſtion, is by way of Gloſs upon the
+Great <hi>Conſtantine</hi>'s Letter, never yet judged Heretical, (as I obſerv'd before.) Is
+here a Tittle of the Author's denying the Godhead of Chriſt?</p>
+            <p>
+               <q rend="margQuotes">'<hi>Cap.</hi> 8. <hi>pag.</hi> 46. Two Evangeliſts trace our Lord's
+Genealogy; but as they derive it not from his real, but ſuppoſed Father, ſo do they take two
+ſeveral ways, not to ſatisfy, but to amuſe us. What is this but to admoniſh us againſt
+Curioſity? The Pe<g ref="char:EOLhyphen"/>digree of his Fleſh might eaſily have bin, either cleared or unmentioned;
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad the Evangeliſts bin wholly ſilent
+concerning it, We had leſs wondred; but that they ſhould profeſs to inſtruct us, yet doubly
+diſappoint us, firſt by deriving it from a wrong Father, and then by diſtracting us between
+two ways; what is this but to verify the Propher's Deſcription, <hi>Who ſhall declare his
+Generation?</hi> and what doth this ſo careful concealment of his Generation according to his
+Humane Nature ſignify more plainly, than a warning againſt ſearching after the Eternal
+Generation of his Divinity? If it were needleſs (and therefore left impoſſible) to prove him
+derived from <hi>David,</hi> which was one of his moſt revealed Characters; How can it be
+otherwiſe, to underſtand that Ge<g ref="char:EOLhyphen"/>neration of his, which muſt needs be ſo much the more
+above our Underſtanding, as the Nature of God is above our own?</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Matter of Fact is plain: Our Bi<g ref="char:EOLhyphen"/>bles ſhew us, that the two Evangeliſts
+de<g ref="char:EOLhyphen"/>rive our Lord's Pedigree from his reputed Father, and that they proceed therein two ſeveral
+ways: The Inference is innocent, <hi>What doth this ſo careful concealment of his Ge<g ref="char:EOLhyphen"/>neration,
+according to his Humane Nature, ſignify more plainly, than a warning againſt ſearching after
+the eternal Generation of his Divinity</hi> — <hi>which muſt be ſo much the more above
+our under<g ref="char:EOLhyphen"/>ſtandings, as the Nature of God is above our own.</hi> Here again the eternal
+Generation of his Divinity is plainly ſuppos'd, ſo far are they from proving the denial of
+it.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 48. And might not a Heathen at this rate juſtify
+Polytheiſm, provided his Gods diſagreed not amongſt themſelves? The Schoolmen therefore
+will not ſtand to this State of the Queſtion, but diſtinguiſh between <hi>Perſon,</hi>
+and <hi>Suppoſitum rationale;</hi> which yet they cannot ſo do, as to ſa<g ref="char:EOLhyphen"/>tisfy themſelves,
+and therefore ſhelter themſelves in their impregnable Fort, <hi>Myſtery,</hi> and thence
+thunder upon the Ad<g ref="char:EOLhyphen"/>verſaries both of this, and of another no leſs beloved <hi>Myſtery:</hi>
+For they make this their Cock-argument for Tranſub<g ref="char:EOLhyphen"/>ſtantiation; That ſince the Scripture is
+no leſs expreſs for the One than the Other, and the Contradictions no leſs groſs in the One
+than in the Other; therefore we muſt embrace the One as well as the O<g ref="char:EOLhyphen"/>ther.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'To this Objection of the <hi>Romaniſts,</hi> and to others of the
+<hi>
+                     <g ref="char:V">Ʋ</g>nitaries,</hi> we have found an Anſwer, That we muſt not infer from our Own Nature to
+God's; for that Ours is finite, and God's is infinite; Three Perſons among us are Three Men,
+be<g ref="char:EOLhyphen"/>cauſe they agree in one Common Nature; but the Divine Nature is not a Common One, but a
+Singular; and therefore Three Perſons do not make Three Gods. If you underſtand not this, you
+muſt not wonder,
+<pb n="8" facs="tcp:50224:5"/>or at leaſt you muſt not Gainſay it; for it is a Myſtery, which Reaſon
+may not pre<g ref="char:EOLhyphen"/>tend to fathom.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Cenſurer underſtood well how to ſtop ſhort; for had he gone one
+Line further, he had diſcovered the Innocency of the Author's Intentions; the Words are, <hi>Why
+if it be a Myſtery, and muſt ſtill be ſo, to what pur<g ref="char:EOLhyphen"/>poſe do we enquire into it, or
+diſpute concerning it?</hi> which plainly ſhew he did not intend either to Aſſert or Deny
+either ſide of the Queſti<g ref="char:EOLhyphen"/>on; but ſet aſide the whole as not to be Un<g ref="char:EOLhyphen"/>derſtood, and
+therefore not to be Diſputed. Theſe Words are not in the Author's Second Impreſſion; ſo
+unwilling was he (it ſeems) to diſpleaſe, that he was at a great charge to have theſe and
+other things left out. But how juſtifiable are they even in the firſt? for they follow
+<hi>Athanaſius</hi>'s way of ſtating the Tri<g ref="char:EOLhyphen"/>nity, which was, That <hi>Peter, James</hi> and
+<hi>John are not three Men if they be of one Mind, becauſe then they are one in the Lord.</hi>
+And doth it not thence clearly follow, that a Heathen might at the ſame rate juſtify
+Polytheiſm, pro<g ref="char:EOLhyphen"/>vided his Gods diſagreed not among them<g ref="char:EOLhyphen"/>ſelves? But who knows not that the
+School<g ref="char:EOLhyphen"/>men and Moderns do generally (as the Au<g ref="char:EOLhyphen"/>thor ſays) reject that way of Arguing, as indeed
+introducing three Gods, one <hi>in ſpecie,</hi> but three in number?</p>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 51. Thus have we pointed (and only pointed) at ſome of
+the many in<g ref="char:EOLhyphen"/>tangling Queſtions, which puzzeled, and divided the ſubtileſt Wits of ſeveral
+A<g ref="char:EOLhyphen"/>ges, and were at laſt decided by no other Evidence, but of Imperial and Papal Authority;
+ſufficient to ſilence Diſputes, but not ſtabliſh Truth. And who is he that is not
+diſcouraged from giving a confi<g ref="char:EOLhyphen"/>dent Aſſent to what is this way obtruded upon his
+Belief?</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is not in the Second Impreſ<g ref="char:EOLhyphen"/>ſion; if it were, where is the Hereſy of
+it? Matter of Fact appears in the Hiſtorians; and the Inference, <hi>Who is he that is not
+diſcou<g ref="char:EOLhyphen"/>raged from giving a confident aſſent to what is this way obtruded upon his
+Belief?</hi> What conſi<g ref="char:EOLhyphen"/>ſidering Man would not ask the fame Que<g ref="char:EOLhyphen"/>ſtion?</p>
+            <p>
+               <q rend="margQuotes">'<hi>Cap.</hi> 9. <hi>pag.</hi> 53. I. There is danger of Blaſphemy in
+Examining the <hi>Silly</hi> Queſtion <hi>(as he calls it)</hi> concerning the Eternity of the
+Godhead of Chriſt.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It's call'd a <hi>Silly Queſtion,</hi> in fol<g ref="char:EOLhyphen"/>lowing <hi>Conſtantine</hi>'s
+Letter which calls it <hi>Silly;</hi> ſome of whoſe Words are cited immediately
+before—<hi>We ought</hi> (ſays he) <hi>to reſtrain our ſelves from talking, leſt when
+we cannot ſufficiently explain the Queſtion, or our Hearers cannot ſufficiently underſtand
+our meaning; either way the People be driven upon a neceſſity of Blaſ<g ref="char:EOLhyphen"/>phemy or
+Contention.</hi>
+            </p>
+            <p>
+               <hi>Ib.</hi> 53.
+<q rend="margQuotes">'This is a ſecond Danger, That we have <hi>no firm ground</hi> to go
+upon.—</q>
+            </p>
+            <p>This is not in the Second Impreſſion. But did not the Author give ſufficient Reaſons for
+it? <hi>viz.</hi> That <hi>all are challenged by either Party with equal aſſurance. Scriptures,
+Antiquity, and Councils too, as the Emperors chanced to influence them.</hi> Does not Biſhop
+<hi>Taylor</hi> ſay as much? <hi>Liberty of Proph.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 54. The only advantage of the Catholicks is long
+Poſſeſſion, and that after Sentence—They have indeed ſo handled matters, as to hide
+much, and varniſh all; yet even ſo we may pick out enough to ju<g ref="char:EOLhyphen"/>ſtify an Appeal, by
+obſerving how that Poſ<g ref="char:EOLhyphen"/>ſeſſion was firſt obtained, then continued, and at laſt
+ſetled—The Sentence which firſt determined the Controverſy <hi>[in the Council of
+Nice]</hi> was not by the merit of the Cauſe, but Intereſt of the Parties.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This alſo is not in the Second Im<g ref="char:EOLhyphen"/>preſſion. And why, if the Sentence
+which firſt determin'd the Controverſy [in the Council of <hi>Nice</hi>] was, by the Merit of
+the Cauſe, and not by the Intereſt of the Parties: Why did the Catholicks in after-Ages, and at
+this Day, impoſe another ſenſe upon the <hi>Nicene</hi> Sentence, than what was manifeſtly
+their meaning? What is this, but to make a Noſe of Wax of that Council, as the Papiſts do of
+Scripture?</p>
+            <pb n="9" facs="tcp:50224:5"/>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 56. This long and miſchievous Controverſy was at
+laſt ſettled by <hi>Theodoſi<g ref="char:EOLhyphen"/>us;</hi> who having received his Inſtructions and Baptiſm
+from a Conſubſtantialiſt, re<g ref="char:EOLhyphen"/>quired all his Subjects to conform to that Religion, which
+<hi>Peter</hi> the Prince of the Apoſtles from the beginning had delive<g ref="char:EOLhyphen"/>red to the Romans, and
+which at that time <hi>Damaſus</hi> Biſhop of <hi>Rome,</hi> and <hi>Peter</hi> Biſhop of
+<hi>Alexandria</hi> held; and that Church only ſhould be eſteemed Catho<g ref="char:EOLhyphen"/>lick which worſhipped
+the Divine Trinity with equal Honour; and thoſe which held the other ſhould be called
+Hereticks, made Infamous, and Puniſhed.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'This therefore we may call ſetling the Controverſy; becauſe
+thenceforth all ſuc<g ref="char:EOLhyphen"/>ceeding Emperors, and Biſhops wrote after this Copy, and both the Parties
+have ever worn theſe Titles, which the Empe<g ref="char:EOLhyphen"/>ror by his Imperial Power, as the unque<g ref="char:EOLhyphen"/>ſtionable
+Fountain of Honour, was pleaſ<g ref="char:EOLhyphen"/>ed to beſtow upon them.—Behold now the Ground upon which
+one of our Fun<g ref="char:EOLhyphen"/>damental Articles of Faith is built; be<g ref="char:EOLhyphen"/>hold the Juſtice of that Plea, which from
+ſuch a poſſeſſion would preſcribe to our Belief.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is not in the Second Impreſ<g ref="char:EOLhyphen"/>ſion. As it is in the Firſt, the
+Hiſtorian that affirms it, is to anſwer for it, and not our Author. As for thoſe
+words—<hi>Behold now the Ground upon which one of our Funda<g ref="char:EOLhyphen"/>mental Articles of Faith is
+built; behold the Juſtice of that Plea, which from ſuch a poſſeſſion would preſcribe
+to our Belief.</hi> I know not what that Author would ſay to it; but I ſay, that the Catholicks
+do, by receding from the Senſe of thoſe Ages in that Article, acknow<g ref="char:EOLhyphen"/>ledg it to be weakly
+grounded.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 57. <hi>of the Interpolated Edition.</hi> What more
+ridiculouſly ſilly than to build ſo weighty a Doctrine upon Implicit Faith in two Biſhops,
+partial to their own Sees, whereof the One gave it Birth, and the Other Maintenance? and what more
+o<g ref="char:EOLhyphen"/>dious than to proſecute as Hereticks and Malefactors, all ſuch as ſhould refuſe to be
+ſo groſly impoſed upon?</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is plainly to be underſtood of the Doctrine controverted in thoſe
+Times, as impos'd on us as neceſſary to Salvation, to be believed in a modern and
+unintelligi<g ref="char:EOLhyphen"/>ble Senſe, though in old equivocal Terms.</p>
+            <p>
+               <hi>Pag.</hi> 57. <hi>of the firſt Edition.</hi> Certainly
+<q rend="margQuotes">'whoſoever ſhall carefully obſerve how the now eſtabliſhed
+Doctrine was from firſt to laſt advanced by groſs partiality of the moſt guilty kind, and
+at laſt impoſed by a Novice <hi>Emperor,</hi> upon Implicit Faith of two Biſhops, of whoſe
+Sees, the one brought it into the World, and the other maintain'd it, and a new coin'd Tradition
+lately obtruded by the guiltier of thoſe Sees, but unpleaded, becauſe, unheard of in thoſe
+former, long and miſerable times, which it might, and ought to have deli<g ref="char:EOLhyphen"/>vered from the
+Convulſions they ſuffe<g ref="char:EOLhyphen"/>red: Whoever, I ſay, ſhall Carefully ob<g ref="char:EOLhyphen"/>ſerve this, and withal
+what foul Tricks the Church of <hi>Rome</hi> uſed in the Weſt, and with what ill Succeſs in
+the Eaſt, whoſe Churches did at laſt more Univerſally em<g ref="char:EOLhyphen"/>brace <hi>Arius</hi>'s Opinion,
+than at firſt they condemned it; may be tempted to num<g ref="char:EOLhyphen"/>ber the <hi>Athanaſian</hi> among the
+Roman Do<g ref="char:EOLhyphen"/>ctrines, and cannot but think it fairly dealt with, if (its boaſted Poſſeſſion
+pardo<g ref="char:EOLhyphen"/>ned) it be left upon the ſame level with the <hi>Arian,</hi> equally unworthy not only of
+our Faith, but of our Study.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The ſame Anſwer I gave to the former will ſerve to this: Is it not equal
+that thoſe Doctrines, whether <hi>Arian</hi> or <hi>Atha<g ref="char:EOLhyphen"/>naſian,</hi> that conſiſt of
+infinite Subtilities and Niceties, which the common Chriſtians never could nor can underſtand,
+which have been conceiv'd, brought forth and nurſed in ſuch a way of Policy, Ambition, and
+Perſecution, as Hiſtories inform us: Is it not equal they ſhould be left upon the ſame
+Level, equally unworthy, not only of the Faith, but alſo of the Study of thoſe that heartily
+believe whatſoever they find in
+<pb n="10" facs="tcp:50224:6"/>Holy Scriptures? plain Things in the plain Senſe, and obſcure Texts in the
+beſt Senſe they can, in conſonancy to plain and clear Ones.</p>
+            <p>
+               <q rend="margQuotes">'<hi>Pag.</hi> 57. If further we conſider (what the Hiſtorian
+expreſly declareth) that at the riſe of this Controverſy, moſt of the Biſhops
+underſtood not it's meaning, we cannot think it neceſſary to Salvation, that every private
+Chriſtian ſhould believe that as an Article of Faith, which the beſt Ages of the Church
+thought no worth knowing —[<hi>This upon ſecond thoughts is thus expreſs'd in a</hi> 2d
+<hi>Edition.</hi> An Opinion which ſo many <hi>wiſe and good</hi> Men as lived within 300 Years
+after Chriſt, were ſo far from believing matter of <hi>Faith,</hi> that they did not receive it
+as matter of <hi>Cer<g ref="char:EOLhyphen"/>tainty,</hi> nor perhaps of <hi>Credibility. pag.</hi> 59.]</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'The <hi>Athanaſians</hi> abhor Polytheiſm, no leſs than do the
+<hi>Arians.</hi> If their Poſiti<g ref="char:EOLhyphen"/>ons ſeem to infer it, they deny the con<g ref="char:EOLhyphen"/>ſequence; if this
+contradict the Rules of reaſoning, they avow it; for they allow Reaſon no hearing in
+Myſteries of Faith: if this make them Hereticks, it is not in Religion, but in Logick.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'On the other ſide the <hi>Arians</hi> profeſs to believe of Chriſt
+whatever himſelf, or his Apoſtles have ſpoken; and where one expreſſion in Scripture
+ſeemeth to contra<g ref="char:EOLhyphen"/>dict another, they take ſuch a Courſe to reconcile them, as the Laws and
+Cuſtoms of all the World direct. It is very fre<g ref="char:EOLhyphen"/>quent for Rhethorick to exceed, but never to
+diminiſh the Grammatical Character of a Perſon, whoſe honour the Writer profeſſeth to
+advance: and upon this ac<g ref="char:EOLhyphen"/>count they think it more reaſonable, that thoſe Expreſſions which
+exalt our Savior's Perſon to an Equality with the Father, ſhould ſtoop to thoſe which
+ſpeak him In<g ref="char:EOLhyphen"/>ferior; than that thoſe which ſpeak him Inferior ſhould be ſtrained up to
+thoſe which ſpeak him Equal. And however this is the ſafer Way; ſince it will lead us to
+ſuch a Belief, as will ſuffice for that end, for whoſe ſake alone Belief it ſelf is
+required. <hi>pag.</hi> 59. <hi>of the Interpolated Edition.</hi>
+               </q>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>To this Queſtion,</hi> Whether any promiſe of God does
+neceſſarily import a reſtitu<g ref="char:EOLhyphen"/>tion of the ſame numerical matter?</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>He anſwers,</hi> That the Words of St. Paul; <hi>Thou fool, that
+which thou ſoweſt, &amp;c.</hi> plainly deny the Reſurrection of the ſame numerical
+particles.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>To another Queſtion,</hi> Whether it be more honorable to God, and
+more ſerviceable to the deſign of the Goſpel, that we be<g ref="char:EOLhyphen"/>lieve the Contrary?</q>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>He anſwers,</hi> That it is the ſame, as to ask, Whether it be
+more honorable to ſalve all his Perfections, or to robb one that we may clothe the other.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this and the other two follow<g ref="char:EOLhyphen"/>ing Paragraphs, I anſwer, That they relate
+to the Differences of thoſe Times, wherein the hot Biſhops on both ſides eagerly con<g ref="char:EOLhyphen"/>tended
+with one another, to the unſpeak<g ref="char:EOLhyphen"/>able Detriment of the Church, and Diſtur<g ref="char:EOLhyphen"/>bance of the Empire:
+But wiſe and ſtay'd Men, ſuch as the Emperor <hi>Conſtantine,</hi> and thoſe Biſhops
+that were his Counſellors, had ſuch an eſteem of thoſe Controverſies as our Author.</p>
+            <p>But, 2. as to our Times, and the Queſti<g ref="char:EOLhyphen"/>on about the <hi>Athanaſian</hi> Creed, I ſee not
+but that they who hold it ſo ſtiffly, and perſe<g ref="char:EOLhyphen"/>cute their Brethren on that ſcore, have no
+mind to remove Occaſions of Difference and Separation, but to continue them; which one may be
+tempted to believe they would not do, but for the ſake of, ſome ſe<g ref="char:EOLhyphen"/>cular and baſe
+Intereſt. See more in the Judgment of one of our moſt eminent Bi<g ref="char:EOLhyphen"/>ſhops ſumming up that
+Letter of <hi>Conſtantine</hi> which this Author preſſed. <hi>Infra</hi> p. 14.</p>
+            <pb n="11" facs="tcp:50224:6"/>
+            <p>This Perſecution of the Author of <hi>the Naked Goſpel,</hi> and the manner of it, is ſo
+threatning, both to thoſe of the National Church, and the Diſſenters from her, that a fiercer
+Perſecution may reaſonably be ex<g ref="char:EOLhyphen"/>pected than any we have ſeen in the late Reigns. The Example
+is clear in thoſe that being of the Church have any thing to loſe pertaining to it: And for
+Diſſenters, the Burners, and other their Brethren, do well know that none of 'em can give
+aſ<g ref="char:EOLhyphen"/>ſent to the <hi>Athanaſian</hi> Creed, except ſome Presbyterians; and non-aſſent
+let's looſe all the Penal Laws, hungry Chancellors, peeviſh or bigotted Juſtices, and
+raſcally Infor<g ref="char:EOLhyphen"/>mers againſt them. Is this the Tem<g ref="char:EOLhyphen"/>per that was promiſed? If it ſhould come
+to this, How much worſe would the Proteſtant National Church of <hi>England</hi> deal with her
+Children, than the Papal Church of <hi>Rome?</hi> This prohibits 'em to read the Bible, and ſo
+prevents the occaſion of queſtioning her Doctrines: but that gives us the Scripture to read,
+but will perſecu<g ref="char:EOLhyphen"/>te us if we believe not, and profeſs more than, or contrary to what is therein
+con<g ref="char:EOLhyphen"/>tain'd; contrary to the common Principle of Proteſtants, and moſt expreſly of this Church
+her ſelf in her Sixth Article, which ſaith.
+<q rend="margQuotes">'The Holy Scripture containeth all things neeeſſary to ſalvation,
+ſo that what<g ref="char:EOLhyphen"/>ſoever is not read therein, nor can be proved thereby, is not to be required of
+any one to to believed as an Article of Faith, or of neceſſity to Salvation.</q> If they do not
+mean by <hi>[proved thereby]</hi> prov<g ref="char:EOLhyphen"/>ed to the ſatisfaction of every ſober Man, the Church of
+<hi>Rome</hi> will prove all her Articles in the ſame way and manner.</p>
+            <p>Thus, Sir, I take the freedom of telling you my thoughts upon this occaſion; but now I muſt
+return and ask you, whether the Learned Aſſembly of Burners have proved that the <hi>Naked
+Goſpel</hi> does not only deny the Godhead of our Lord Jeſus Chriſt, but <hi>oſtentui
+habet</hi> (as their Phraſe is) ex<g ref="char:EOLhyphen"/>poſe him to ſcorn, or make a ſhew of him? Do all their
+Exſcriptions prove any part of their horrid Charge?</p>
+            <p>As for his denying the <hi>reſurrection of the ſame numerical Particles,</hi> you know, that
+ſince the newer Philoſophy got Credit, that Doctrine is often taught in our Pulpits, and I am
+inform'd even at St <hi>Mary</hi>'s in <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> too, beſides in divers learned Mens
+Wri<g ref="char:EOLhyphen"/>tings. Good God! when ſhall the Spirit of Perſecution be caſt out! when will
+Chriſti<g ref="char:EOLhyphen"/>ans learn to be juſt as Men, not to ſay lo<g ref="char:EOLhyphen"/>ving and tender-hearted as Brethren! They
+boaſt of the truth of their Faith, but it is not ſuch as worketh by Love. What is it to honour
+Chriſt in their Words, and diſhonour him in their Lives? Fourteen Hundred Years experience has
+taught the World, that Men contend for Opinions and Speculations in Religion, for the gratification
+of their Pride, Covetouſneſs, Revenge, and the like worldly Intereſts.</p>
+            <p>Though my Letter has been ſo long, I'le venture ſtill to entertain you, Sir, with
+ſomething conſiderable about Dr. <hi>Bury,</hi> the ſuppoſed Author of the <hi>Naked
+Goſpel,</hi> of which I am credibly inform'd. To have a Book condemn'd long after 'twas printed,
+nay, when its Author and his Col<g ref="char:EOLhyphen"/>ledg were ſtrugling againſt heavy Oppreſſion in their
+Rights and Priviledges, will put the World upon enquiring into the Reaſons and Motives of ſuch
+an Action, as well as the Life and Conduct of the Author. The Rector of <hi>Exeter</hi> Colledg
+then (having done what lay in his Power for his King) was expell'd from his Fellowſhip, for
+refuſing to ſubmit to the Viſitors in 1648, and the only Perſon who had courage to read the
+Prayers of his then diſtreſs'd Mother the Church of <hi>England</hi> in the Colledg, when
+<hi>extempore</hi> Ones were in faſhion; for which he was led, by a Fileof Muſqueteers, to the
+next Port, turn'd out, and forbid entrance again upon pain of Death; and he never after ran counter
+to ſo good a beginning. Would not one think, Sir, this ſufficient to procure him the reſpect
+and veneration of thoſe
+<pb n="12" facs="tcp:50224:7"/>who are his worſt Enemies? Had any of them fallen into Circumſtances leſs
+trouble<g ref="char:EOLhyphen"/>ſome, what out-cries, I ſancy, would there have been! what writing of Letters! what
+trumpeting of Praiſes! what noiſe of Loy<g ref="char:EOLhyphen"/>alty and paſt Sufferings! not a Figure in Rhetorick
+but muſt have been drawn dry by one Wit or other; and had that fail'd, the World muſt have been
+hector'd into a good Opinion. After he was made Rector, he never did any thing that look'd as if he
+had forgot his firſt Loyal Principles, but led a quiet, ſober, and unblameable Life; given very
+much to good Works, as may be prov'd by his Buildings in the Colledg; his large Contributions to
+the Company for Relief of Clergy-mens Widows and Or<g ref="char:EOLhyphen"/>phan; beſides other leſs viſible
+Inſtances, not fit to be mentioned while he's alive: All which none indeed can deny that will not
+baſely wrong him. He was ſo ſtrict an ob<g ref="char:EOLhyphen"/>ſerver of what he thought the Will of his Founder,
+that he would have declar'd his own Son's Fellowſhip void, (ſtaying ſome time longer beyond
+Sea than his Father thought allowable) if not prevented by the Fellows of his Colledg. He wrote a
+Book call'd <hi>The Conſtant Communicant,</hi> dedicated to, and approv'd of by his Grace the
+preſent Arch-Biſhop of <hi>Canterbury,</hi> wherein he pleads the Authority of the Church as an
+Obliga<g ref="char:EOLhyphen"/>tion ſo to be. Thus far he's come, without the leaſt: ſuſpicion of want of Zeal for
+the Church, on of Hereſy.</p>
+            <p>But we won't ſecure him for the future; for the laſt Publick Act that was at
+<hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> he expelled one of the <hi>Terrae Filius</hi>'s for being very abuſive to Dr.
+<hi>Wallis,</hi> and re<g ref="char:EOLhyphen"/>fuſſing to deſiſt when commanded. This mightily diſpleas'd the
+Junior Maſters, and he now finds they have not forgot him. In <hi>October</hi> laſt he joins
+with the Senior Fellows to expel another of their Degree, (Mr. <hi>Colmer</hi>). Fellow of his own
+Colledg, for Fornication; which though it has occaſi<g ref="char:EOLhyphen"/>on'd him and his Colledg all their Troubles,
+yet let us by no means ſay it made the <hi>Naked Goſpel</hi> Heretical and Impious. But
+purſue Matter of Fact about the Manner of the Decree. After the Biſhop of <hi>E.</hi> had
+viſited <hi>E.</hi> Colledg, contrary to their Sta<g ref="char:EOLhyphen"/>tutes and Proteſtation, the major part of
+the Fellows ſuſpended for not betraying their Priviledges: One of them Excommu<g ref="char:EOLhyphen"/>nitated for the
+heinous Crime of reading Prayers after that Suſpenſion; the Rector himſelf expell'd for
+Contumacy, <hi>&amp;c.</hi> and excommunciated for not yielding up his Lodgings (as you have been
+informed.) While they were ſeeking redreſs from her Majeſty and Privy Council, a Petition
+againſt <hi>the Naked Goſpel</hi> ſubſcrib'd by Thirty or Forty of the Maſters, was
+publickly and rudely preſented to Dr. <hi>M.</hi> Pro-Vice-Chan<g ref="char:EOLhyphen"/>cellor, to be read in
+Congregation: but he refuſed, and gave it to the Vice-chancellor. Now, pray, Sir, pleaſe to
+obſerve, that this was an irregular way of proceed<g ref="char:EOLhyphen"/>ing; for the Vice-Chancellor only ought to
+take notice of Matters of that Nature, and Petitions are not to be tendred by great Numbers.
+However he gave way ſo far, as to call a meeting of the Heads of Houſes, where the Buſineſs
+met with ſome oppoſi<g ref="char:EOLhyphen"/>tion, it being freely ſaid, that it was not fit they ſhould be made
+Tools for the Biſhop of <hi>E</hi>— or ſome ſuch thing; yet 'twas then referr'd to the
+two Profeſſors, Dr. <hi>Jane</hi> (who drew up the famous Decree of 1683) and Dr.
+<hi>Hall,</hi> barely to draw Propoſitions out of the Book: the latter declin'd it, and the
+former is ſaid to have done it as in the Decree. In the mean time her Majeſty in Council is
+moſt graciouſly pleaſed to order the Lord Biſhop of <hi>Exeter</hi> ſhould put in an
+Anſwer to the Rector and Fellows Petition, and to declare a Day ſhould be appointed for
+hearing. May we not think this haſt<g ref="char:EOLhyphen"/>en'd the Decree?—But now the Ma<g ref="char:EOLhyphen"/>ſters ſeeing
+nothing done upon the former Petition, lay hold of a time when a Con<g ref="char:EOLhyphen"/>vocation was call'd, upon
+another Occaſi<g ref="char:EOLhyphen"/>on, to deliver another Petition, in a yet more tumultuous manner, and with many
+more Hands, to the Vice-Chancellor as he came out; who took it amiſs, and reprov'd
+<pb n="13" facs="tcp:50224:7"/>them, ſaying, <hi>He did not like that way of proceeding;</hi> yet it came at
+laſt to what the World ſees. I ſhan't tell you, Sir, what manner of Men promoted it, you
+eaſily by this time gueſs; and though the Univerſity ſeem to be very ſenſible of the
+Figure they make in the World, and the Deference paid their Opinion: yet knowing that one of the
+Profeſſors refus'd to be engag'd, and hearing that ſeveral Heads of Houſes, and others were
+abſent when the Decree paſt; conſi<g ref="char:EOLhyphen"/>dering alſo the Time and Manner of it, and the ill Fate
+of the now exploded Decree in 1683, That the <hi>N. G.</hi> (ſuppoſing Dr. <hi>B.</hi> the
+Author) ought not to prejudice him in his juſt Rights, (which ſeems chiefly de<g ref="char:EOLhyphen"/>ſign'd) and
+eſpecially his Colledg, who are nothing concern'd: that it's now no Secret who are the Engines
+and Movers of all this, that his worſt Enimies live not far from a place where the Prayer has not
+been uſed for his Majeſties ſucceſs in <hi>Ireland,</hi> (but juſt on Faſt-days when it
+can't be help'd) no, nor that in time of War and Tumults; that conſidering the Time when ſome
+things hap<g ref="char:EOLhyphen"/>pen'd, one may wiſh there was not ſome further uſe intended to be made of them,
+than the ruining a Rector, and major part of a Colledg; (who are notoriouſly known to be as firm
+and hearty for the preſent. Go<g ref="char:EOLhyphen"/>vernment as any in the three Kingdoms); that the Univerſity are
+not the proper Judges of Hereſy; that they have no Sta<g ref="char:EOLhyphen"/>tute (as I can hear of) for burning of
+Books: That the Author is abus'd in the Quotations; that he's only guilty of a large, generous, and
+extenſive Charity, nei<g ref="char:EOLhyphen"/>ther <hi>Socinian</hi> nor <hi>Arian.</hi>
+            </p>
+            <p>And laſt of all, conſidering that ſeveral Perſons, of a Character above any of the
+worthy Condemners, and no ways inferior to the beſt of them (if not exceeding) in Learning and
+Wiſdom, have declared, that upon reading the Book they could not ſee any Hereſy in it: I
+ſay, Sir, when one ſeriouſly reflects, and without prejudice, on all theſe things, one may
+ver well afford to wiſh the Decree juſt as much <hi>Succeſs,</hi> as its Authors have ſhewn
+<hi>Juſtice.</hi>
+            </p>
+            <p>And here it may not be amiſs, Sir, to oblige you with what hath been ſaid by an excellent
+Prelate of our own Church; who has alſo ſumm'd up that <hi>celebrated Epiſtle</hi> of the
+<hi>Great</hi> and <hi>Wiſe Conſtantine:</hi> which will be ſo entire a Vindication of the
+Author of the <hi>Naked Goſpel,</hi> that nothing can be ſo much as whiſper'd againſt him;
+and which Perſons of free and generous Minds may be apt to oppoſe to the Sentiments of the
+Univerſity <hi>however conſiderable.</hi>
+               <q rend="margQuotes">'There are ſome wiſe Perſons (ſays this great Man, ſpeaking of
+the firſt Council of <hi>Nice</hi>) that think the Church had been more happy, if ſhe had not
+been in ſome ſenſe conſtrain'd to alter the Simplicity of her Faith, and make it more
+<hi>curious</hi> and <hi>ar<g ref="char:EOLhyphen"/>ticulate,</hi> ſo much that he had need be a <hi>ſubtile Man to
+underſtand the words of the New Determinations.</hi> (And a little after.) Now then they that
+liv'd in that Age, that underſtood the Men, that ſaw how quiet the Church was before this
+ſtir, how miſerably rent now; <hi>what little benefit from the Queſtion, what Schiſm about
+it,</hi> gave o<g ref="char:EOLhyphen"/>ther Cenſures of the Buſineſs than we ſince have done, who only look on the
+Article as determin'd with Truth and Appro<g ref="char:EOLhyphen"/>bation of the Church generally ſince that Time.
+<hi>Socrat. lib.</hi> 1. <hi>c.</hi> 2. <hi>But the E<g ref="char:EOLhyphen"/>piſtle of</hi> Conſtantine <hi>to</hi>
+Alexander <hi>and</hi> Ari<g ref="char:EOLhyphen"/>us, <hi>tells the Truth, and chides them both for commenting the
+Queſtion,</hi> Alexander <hi>for broaching it,</hi> Arius <hi>for taking it up; and although this
+be true that it had been bet<g ref="char:EOLhyphen"/>ter for the Church it never had begun; yet being begun,</hi> What is
+to be done in it? Of this alſo in that <hi>admirable Epiſtle,</hi> we have the
+<hi>Emperor</hi>'s <hi>Judgment,</hi> (I ſuppoſe not without the advice and privity of
+<hi>Ho<g ref="char:EOLhyphen"/>ſius</hi> Biſhop of <hi>Corduba,</hi> whom the Emperor lov'd and truſted much, and
+employ'd in the delivery of the Letters).</q>
+            </p>
+            <pb n="14" facs="tcp:50224:8"/>
+            <p>
+               <q rend="margQuotes">'<hi>Firſt he calls it a certain vain piece of a Queſtion, ill begun,
+and more unadviſedly pub<g ref="char:EOLhyphen"/>liſhed; a Queſtion which no Law, nor Eccle<g ref="char:EOLhyphen"/>ſiaſtical Canon
+defineth; a fruitleſs Contenti<g ref="char:EOLhyphen"/>on, the product of iile Brains, a Matter ſo</hi> nice,
+<hi>ſo</hi> obſcure, <hi>ſo</hi> Intricate, <hi>that it was neither to be</hi> explicated by
+the Clergy, <hi>nor</hi> underſtood by the People. <hi>A Diſpute of words, a Doctrine
+inexplicable, but</hi> moſt dangerous when taught, <hi>leſt</hi> it introduce Diſcord or
+Blaſphemy: <hi>And therefore the</hi> Objecter was raſh, <hi>and the</hi> Anſwerer
+unadviſed; <hi>for it</hi> concerned not the Sub<g ref="char:EOLhyphen"/>ſtance of Faith, or the Worſhip of God, or
+any chief Command of Scripture; <hi>and therefore why ſhould it be the Matter of Diſ<g ref="char:EOLhyphen"/>cord? For
+though the Matter be grave, yet becauſe neither Neceſſary nor Explicable, the</hi> Contention
+is trifling and toyiſh: <hi>and there<g ref="char:EOLhyphen"/>fore as the Philoſophers of the ſame Sect, though
+differing in the Explication of an Opinion, have yet more love for the <g ref="char:V">Ʋ</g>nity of the
+Profeſſion, than diſagreement for the difference of Opinion. So ſhould Chriſtians,
+believing in the ſame God, retaining the ſame Faith, having the ſame Hopes, oppoſed by the
+ſame Enemies, not fall at variance upon ſuch Diſputes; conſidering</hi> our
+Underſtandings are not all alike; <hi>and therefore neither can</hi> our Opinions in ſuch
+myſterious Articles. <hi>So that the Matter being of</hi> no great Importance, <hi>but</hi> vain,
+and a Toy <hi>in reſpect of the excellent</hi> bleſ<g ref="char:EOLhyphen"/>ſings <hi>of</hi> Peace and Charity,
+<hi>it were good that</hi> Alexander <hi>and</hi> Arius <hi>ſhould leave con<g ref="char:EOLhyphen"/>tending, keep their
+Opinions to themſelves, ask each other forgiveneſs, and</hi> give mutual To<g ref="char:EOLhyphen"/>leration.</q>
+            </p>
+            <p>This is the ſubſtance of <hi>Conſtantine</hi>'s Letter, and it contains in it <hi>much
+Reaſon,</hi> if he did not undervalue the Queſtion; but it ſeems it was not then thought
+<hi>a Queſtion of Faith,</hi> but <hi>of Nicety of Diſpute:</hi> They both did believe one God,
+and the Holy Trinity, <hi>&amp;c.</hi> But for the Article it ſelf, the Letter declares what
+Opinion he had of <hi>that;</hi> and this Letter was by <hi>Socrates</hi> called, <hi>A Wonderful
+Exhortation, full of Grace and ſober Counſels;</hi> and ſuch as <hi>Hoſius</hi> himſelf
+who was the Meſſenger, preſſed with <hi>all earneſtneſs,</hi> with all the
+<hi>Skill</hi> and <hi>Authority</hi> he had. Thus far that Great and Learned Biſhop, <hi>Lib.
+Propheſ. Sect.</hi> 2.</p>
+            <p>And now let all thoſe who are <hi>diſcreet</hi> and <hi>reaſonable,</hi> condemn that
+<hi>truly great Emperor,</hi> our own <hi>Worthy Prelate,</hi> and the ingenuous and charitable
+Author of <hi>the Naked Goſpel.</hi>
+            </p>
+            <p>I am afraid I have drawn out this Account to a greater length than that the reading of it may
+ſuit your little Leiſure, but I doubt not your Pardon to,</p>
+            <closer>
+               <salute>
+                  <hi>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>R</hi>
+               </salute>
+               <signed>Your —</signed>
+               <date>
+                  <hi>Aug.</hi> 30. 1690.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb n="15" facs="tcp:50224:8"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THe Reader is deſired to take notice, that if the Sayings of the Fathers, and other eminent
+Perſons, were to be quoted for that purpoſe, for which ſome of them are already mention'd,
+they alone would fill a Volume, and perhaps as uſeful an One as any yet extant: But we ſhall
+only trouble him with one very remarkable ſaying of <hi>Tertullian, Lib. de Velaud.
+Virg.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">'<hi>Regula quidem fidei,</hi> &amp;c. This Symbol (ſpeaking of the
+Apoſtles <hi>Creed</hi>) is the One <hi>Sufficient, <g ref="char:V">Ʋ</g>nalterable</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nchangeable
+Rule</hi> of <hi>Faith,</hi> that admits no <hi>Encreaſe</hi> or <hi>Decreaſe;</hi> but if the
+<hi>Integrity</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nity of this be preſerved,</hi> in all other things Men may take
+liberty of enlarging their Know<g ref="char:EOLhyphen"/>ledg and Propheſyings, according as they are aſſiſted by
+the Grace of God.</q>
+            </p>
+            <p>And with one Paſſage out of the <hi>Naked Goſpel,</hi> firſt Edition, <hi>pag.</hi> 73.
+<hi>line</hi> 23.
+<q rend="margQuotes">'The Author of the Goſpel is a <hi>Perſon,</hi> not on<g ref="char:EOLhyphen"/>ly
+<hi>Great,</hi> but <hi>Infinite;</hi> and no leſs ſo in <hi>Power</hi> than
+<hi>Faithfulneſs,</hi> ſo that there is no place for miſtruſt.</q> Though this has not been
+mentiou'd in the, Letter, yet is it as plain as can be poſſible, and may be ſound in all the
+Editions of the Book, and which ought ſure to be acknowledged by the <hi>Judi<g ref="char:EOLhyphen"/>cious,
+Impartial,</hi> and Learned Condemners.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
